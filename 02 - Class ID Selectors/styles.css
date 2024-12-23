@@ -1,0 +1,13 @@
+.metro,
+.metro3,
+.metro2 {
+    background-color: rgb(184, 68, 68);
+}
+
+.metro2 {
+    font-size: 24px;
+}
+.metro3 {
+    font-weight: bold;
+    font-size: 24px;
+}
